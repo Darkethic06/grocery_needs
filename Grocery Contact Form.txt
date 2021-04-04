@@ -1,0 +1,7 @@
+[text FullName placeholder "Full Name*"]
+
+[email* Email placeholder "Email*"]
+
+[textarea Message placeholder "Message*"]
+
+[submit "Submit"]

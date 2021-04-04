@@ -1,0 +1,5 @@
+Hero Background : bde1b5
+Secondary Colour Orange: ec6f12
+Font Colour Green: 78ae31
+
+ZGRO2020
